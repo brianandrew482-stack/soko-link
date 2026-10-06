@@ -1,2 +1,0 @@
->import React from 'react'; import curly brace View, Text, StyleSheet curly brace from 'react-native';
-export default function capital I, capital N, lowercase D, lowercase X curly brace return. View style name styles dot container Text style name styles dot title, Soko Link, Text style name styles dot subtitle, Connect. Discover. Shop. Close tags and component. Add styles below.                                 
